@@ -1,13 +1,13 @@
 LAST_RUN::2026-09-14
 9月24日(木)_12:50_工場見学コース(有料) Factory tour course(Fee)::2
-9月25日(金)_14:45_工場見学コース(有料) Factory tour course(Fee)::△
+9月25日(金)_14:45_工場見学コース(有料) Factory tour course(Fee)::○
 10月6日(火)_14:45_工場見学コース(有料) Factory tour course(Fee)::△
 10月6日(火)_16:30_工場見学コース(有料) Factory tour course(Fee)::4
-10月13日(火)_10:45_工場見学コース(有料) Factory tour course(Fee)::2
+10月13日(火)_10:45_工場見学コース(有料) Factory tour course(Fee)::△
 10月13日(火)_14:45_工場見学コース(有料) Factory tour course(Fee)::3
 10月13日(火)_16:30_工場見学コース(有料) Factory tour course(Fee)::○
 10月13日(火)_12:50_工場見学コース(有料) Factory tour course(Fee)::2
-9月28日(月)_13:30_JAL航空気象アカデミー(有料) JAL Aero Weather Academy(Fee)::3
+9月28日(月)_13:30_JAL航空気象アカデミー(有料) JAL Aero Weather Academy(Fee)::△
 10月5日(月)_13:30_JAL航空気象アカデミー(有料) JAL Aero Weather Academy(Fee)::○
 10月8日(木)_16:30_工場見学コース(有料) Factory tour course(Fee)::△
 10月4日(日)_12:50_工場見学コース(有料) Factory tour course(Fee)::2
